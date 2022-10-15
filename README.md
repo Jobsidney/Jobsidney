@@ -1,34 +1,27 @@
-
-Hi 👋 My name is Job Sidney
+PREVIEW
+MARKDOWN
+COPY
+Hi 👋 My name is JOB SIDNEY
 ===========================
 
-Web & Mobile Software Developer
+Full-Stack Developer & Designer
 -------------------------------
 
-Software Developer
+I'm a proficient software engineer and Data science enthusiast, driven with the zeal to solve complex problems and strong eye for details that help to build responsive web and mobile applications which are human centered and impact the community positively. I have skills in various programming languages, skilled with working as a team and tenacity to never quit until the goal is achieved with perfection.
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [jobsidney67@gmail.com](mailto:jobsidney67@gmail.com)
-<!-- * Here are some ideas to get you started:
-* - 🔭 I’m currently working on ...
-* - 🌱 I’m currently learning ...
-* - 👯 I’m looking to collaborate on ...
-* - 🤔 I’m looking for help with ...
-* - 💬 Ask me about ...
-* - 📫 How to reach me: ...
-* - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+* 🌍  I'm based in Nairobi,Kenya
+* ✉️  You can contact me at [jobsidney67@gmail.com](mailto:jobsidney67@gmail.com)
+* 🧠  I'm learning Golang and intro to web3 development
+* 🤝  I'm open to collaborating on Business solution projects,Current technology,Web applications
 
 ## SKILLS
 
 ### [CORE]()
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-
+<p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
-<!-- <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> -->
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 ### [FRONTEND]()
 <p>When it comes to FrontEnd Designing and programmming, my skills are well define with the use of the following Programming languages</p>
 
