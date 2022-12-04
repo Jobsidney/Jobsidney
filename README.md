@@ -1,8 +1,8 @@
 
-Hi 👋 My name is JOB SIDNEY.
+Hi 👋 My name is JOB SIDNEY
 ===========================
 
-Full-Stack Developer, Ui Designer & Mobile App developer
+Full-Stack Developer, Ui Designer & Mobile App developer.
 -------------------------------
 
 I'm a proficient software engineer and Data science enthusiast, driven with the zeal to solve complex problems and strong eye for details that help to build responsive web and mobile applications which are human centered and impact the community positively. I have skills in various programming languages, skilled with working as a team and tenacity to never quit until the goal is achieved with perfection.
