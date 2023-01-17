@@ -10,7 +10,7 @@ I'm a proficient software engineer and Data science enthusiast, driven with the 
 * 🌍  I'm based in Nairobi,Kenya
 * ✉️  You can contact me at [jobsidney67@gmail.com](mailto:jobsidney67@gmail.com)
 * 🧠  I'm learning Golang and intro to web3 development
-* 🤝  I'm open to collaborating on Business solution projects,Current technology,Web applications and web3
+* 🤝  I'm open to collaborating on Business solution projects,Current technology,Web applications and React native
 
 ## SKILLS
 
