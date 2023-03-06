@@ -1,6 +1,6 @@
 
 Hi 👋 My name is JOB SIDNEY M
-===========================
+===============================
 
 Full-Stack Developer, Ui Designer & Mobile App developer.
 -------------------------------
