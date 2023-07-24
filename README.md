@@ -1,5 +1,5 @@
 
-Hi 👋 My name is JOB SIDNEY 
+Hi 👋 My name is JOB SIDNEY ..
 ==========================
 
 Full-Stack Developer, Ui Designer & Mobile App developer.
